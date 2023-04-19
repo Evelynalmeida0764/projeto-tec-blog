@@ -1,0 +1,72 @@
+body { background-color: WhiteSmoke;
+
+}
+	
+	#faixaInicial {
+		background-color: gold;
+		font-size: 50px;
+
+	}
+
+	a {
+		text-decoration: none;
+	}
+	a:visited {
+		color: Goldenrod;
+	}
+
+	a:hover {
+		color: Chocolate;
+	}
+
+	h2 {
+		color: gold;
+	}
+
+	.menuItem {
+		font-size: 20px;
+		color: white;
+		padding: 10px;
+	}
+
+	.titulo {
+		color: white;
+		padding: 20px;
+		align-content: center;	
+	}
+
+	#principal {
+		margin: 0 auto;
+		width: 920px;
+		height: auto;
+		padding: 15px;
+	}
+
+	.postagens {
+		max-width: 660px;
+		background-color: white;
+		font-size: 20px;
+		float: left;
+		/*padding: 20px;*/
+		margin-bottom: 20px;
+		padding: 10px ;
+
+
+	}
+	p{ 
+		max-width:620px;
+	}
+
+	.lateral {
+		width: 240px;
+		background-color: white;
+		float: right;
+		/*padding: 20px;*/
+		margin-bottom: 20px;
+		padding: 10px ;
+
+	}
+
+	#dataPostagem {
+		font-size: 15px;
+	}
